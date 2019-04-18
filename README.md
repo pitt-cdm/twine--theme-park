@@ -7,3 +7,5 @@ This is a screenshot of the basic work that we have done so far. We're planning 
 <img src="how-to/Screen Shot 2019-04-10 at 9.14.08 PM.png" alt="One of the storylines ending and the continuing one" style="margin: 0 auto;" />
 
 This part is an example of one of the storylines ending. This is supposed to be sort of a horror type game, or at least we are attempting to make it one. Will it actually be that scary at all? I guess only the people playing it will be able to tell us. I feel like any feedback we get will be very helpful as neither of us are fiction writers. But don't worry, once we add some effects like sounds and possibly a picture or two it'll look a whole heck of a lot better.
+
+Now that our project is completed we're very pleased with the turn-out. 
